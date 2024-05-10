@@ -112,10 +112,17 @@ Links to articles, tools, papers, books, etc. that contain useful educational ma
 * [Damn Vulnerable LLM Project](https://github.com/harishsg993010/DamnVulnerableLLMProject)
 * [LLM Vulnerable Recruitment App](https://github.com/WithSecureLabs/llm-vulnerable-recruitment-app)
 * [Damn Vulnerable LLM Agent](https://github.com/WithSecureLabs/damn-vulnerable-llm-agent)
+* [OWASP Foundation Web Respository LLM Security](https://github.com/owasp/www-project-top-10-for-large-language-model-applications)
 
 ## Tools🔥
+* [Set of tools to assess and improve LLM security](https://github.com/meta-llama/PurpleLlama)
 
 ## LLM Security Resources🎯 
+![Securing LLM's Against Top 10  OWASP Large Language Model Vulnerabilities](https://github.com/GURPREETKAURJETHRA/LLM-SECURITY/blob/main/OWASP%20TOP%2010.jpg)
 * [OWASP Top 10 for LLM Applications](https://llmtop10.com/)
+* [OWASP Top 10 Vulnerabilities Checklist for LLM Applications](https://github.com/GURPREETKAURJETHRA/LLM-SECURITY/blob/main/OWASP%20TOP%2010%20FOR%20LLM%20APPLICATIONS.pdf)
+* [LLM AI Cybersecurity & Governance Checklist](https://github.com/GURPREETKAURJETHRA/LLM-SECURITY/blob/main/LLM_AI_Security_and_Governance_Checklist-v1.1.pdf)
+* [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
+* [OWASP Top 10 LLMs Vulnerabilities For Businesses In 2024](https://www.optiq.ai/blog-post/owasp-top-10-llms-vulnerabilities-for-businesses-in-2024)
 
   
